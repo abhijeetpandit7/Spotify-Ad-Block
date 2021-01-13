@@ -16,4 +16,4 @@ In order to remove those pesky ads, all we need to do is setup our Code Snippet 
 3. Click the name of the Snippet that you want to run. The Snippet opens in the Code Editor.
 4. Click Run Snippet, or press Control+Enter or Command+Enter (Mac).
 
-There you go. No more wind rushing by, no horns nor any engines.
+***There you go. No more wind rushing by, no horns nor any engines.***
